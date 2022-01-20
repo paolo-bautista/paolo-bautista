@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @paolo-bautista and my personal GitHub Account!
+- 👋 Hi, I’m @paolo-bautista and this is my personal GitHub Account!
 - For school GitHub- https://github.uconn.edu/plb18001
 - 👀 I’m interested in UX/UI Web and Interactive Design
 - 🌱 I’m currently learning HTML5, CSS, JS, XML, and VR/AR Development
