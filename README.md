@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @paolo-bautista
+- 👀 I’m interested in UX/UI Web and Interactive Design
+- 🌱 I’m currently learning HTML5, CSS, JS, XML, and VR/AR Development
+- 💞️ I’m looking to collaborate on any project that opens my heart
+- 📫 How to reach me connect with my via linkedin! https://www.linkedin.com/in/paolo-bautista-283953208/
